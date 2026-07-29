@@ -1,0 +1,6 @@
+# SoteloSint Dependencies
+sherlock-project
+maigret
+holehe
+ignorant
+
