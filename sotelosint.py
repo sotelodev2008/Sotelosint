@@ -64,6 +64,9 @@ class sotelosint:
                 if self.prefix.isdigit() == False or self.numH.isdigit() == False:
                     getout()
                 sub.run(["ignorant", self.prefix, self.numH])
+        else:
+            print("You did not use a valid argument, try again")
+            getout()
 if len(sys.argv) <= 1:
     sol = sotelosint()
 elif len(sys.argv) == 2:
