@@ -7,7 +7,7 @@ class sotelosint:
         self.name = name
         self.argument = argument
         self.num = num
-    def busqueda(self):
+    def hunt(self):
         if self.argument == "-h" or self.argument == "-help" or self.argument == "--help" or self.name == "-h" or self.name == "-help" or self.name == "--help":
             print("SoteloSint - All-in-One OSINT Tool")
             print("Usage: python archivo.py [target] [argument] [phone]")
@@ -76,4 +76,4 @@ else:
     print("You must write a minimum of one argument and a maximum of three.") # Opción por defecto si ejecutas solo "python archivo.py"
     getout()
 
-sol.busqueda()
+sol.hunt()
