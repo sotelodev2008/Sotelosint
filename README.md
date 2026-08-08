@@ -249,8 +249,8 @@ Ignorant (-i):
 
 n - No limpiar terminal
 ```
-Ejemplos
-bash
+#### Ejemplos
+```bash
 # Búsqueda básica con Sherlock
 python sotelosint.py johndoe
 
@@ -271,6 +271,8 @@ python sotelosint.py 34612345687 -i
 
 # Todas las herramientas (requiere teléfono para Ignorant)
 python sotelosint.py johndoe -a 34 612345687
+```
+
 ### 🧰 Herramientas Integradas
 | Tool | Purpose | Link |
 | :--- | :--- | :--- |
