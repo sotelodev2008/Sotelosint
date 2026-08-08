@@ -290,4 +290,3 @@ Sin Soporte Proxy: Conexiones directas únicamente (excepto soporte Tor donde es
 English: Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
 Español: ¡Las contribuciones son bienvenidas! Por favor haz fork al repositorio y envía un pull request con tus mejoras.
-```
