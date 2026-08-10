@@ -39,7 +39,7 @@ class sotelosint:
             print("  -a : All (Execute all tools sequentially) using the following arguments: (note: knowing that sherlock, nor the other programs will export the output to a txt file, we recomend you using the > to redirect the whole output to a only file)")
             print("     sherlock order: -scn")
             print("     maigret order: -macg")
-            print("     holehe order: -H")
+            print("     holehe order: -Hc")
             print("     ignorant order: -in")
             getout()
         def sherlock():
@@ -181,7 +181,7 @@ class sotelosint:
             sherlock()
             self.argument = "-macg"
             maigret()
-            self.argument = "-H"
+            self.argument = "-Hc"
             holehe()
             if len(sys.argv) >= 4:
                 self.argument = "-in"
