@@ -40,7 +40,7 @@ class sotelosint:
             print("     sherlock order: -scn")
             print("     maigret order: -macg")
             print("     holehe order: -H")
-            print("     ignorant order: -i")
+            print("     ignorant order: -in")
             getout()
         def sherlock():
             b = 'b' in self.argument
