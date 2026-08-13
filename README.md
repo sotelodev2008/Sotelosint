@@ -37,7 +37,7 @@
 - [🛠️ Instalación](#-instalación)
 - [🚀 Uso](#-uso)
 - [🧰 Herramientas Integradas](#-herramientas-integradas)
-- [⚠️ Limitaciones](#-limitcioness)
+- [⚠️ Limitaciones](#-limitaciones)
 - [🤝 Contribuciones](#-contributing--contribuciones)
 
 ---
