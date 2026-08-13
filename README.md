@@ -34,7 +34,7 @@
 **Contenido en Español:**
 - [📖 ¿Qué es esto?](#-what-is-this--qué-es-esto)
 - [✨ Características](#-caracteristicas)
-- [🛠️ Instalación](#-instaaciónn)
+- [🛠️ Instalación](#-instación)
 - [🚀 Uso](#-uso)
 - [🧰 Herramientas Integradas](#-herramientas-integradas)
 - [⚠️ Limitaciones](#-limitcioness)
